@@ -1,0 +1,8 @@
+I recently discoverd UR-FUNNY data set which is a multimodal language data set
+for understanding humor. It contains 5,000 videos of humorous punchlines, with
+an equal number of negative samples. The videos are annotated with language,
+visual, and acoustic features, as well as humor labels. The data set was created
+by researchers from the University of Rochester and Carnegie Mellon University.
+The data set can be used to train and evaluate models for humor detection,
+which is a challenging task in natural language processing. The data set is
+publicly available on Github.
